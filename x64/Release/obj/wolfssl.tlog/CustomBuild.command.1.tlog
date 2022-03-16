@@ -1,0 +1,4 @@
+^C:\USERS\IOFOC\DOWNLOADS\WOLFSSL-5.2.0\WOLFSSL-5.2.0\WOLFCRYPT\SRC\AES_ASM.ASM
+ml64.exe /c /Zi /Fo"C:\Users\iofoc\Downloads\wolfssl-5.2.0\wolfssl-5.2.0\x64\Release\aes_asm.obj" wolfcrypt\src\aes_asm.asm
+^C:\USERS\IOFOC\DOWNLOADS\WOLFSSL-5.2.0\WOLFSSL-5.2.0\WOLFCRYPT\SRC\SP_X86_64_ASM.ASM
+ml64.exe /c /Zi /Fo"C:\Users\iofoc\Downloads\wolfssl-5.2.0\wolfssl-5.2.0\x64\Release\sp_x86_64_asm.obj" wolfcrypt\src\sp_x86_64_asm.asm

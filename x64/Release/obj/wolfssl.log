@@ -1,0 +1,81 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.31.31104.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: wolfcrypt\src\aes_asm.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.31.31104.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: wolfcrypt\src\sp_x86_64_asm.asm
+  crl.c
+  internal.c
+  wolfio.c
+  keys.c
+  ocsp.c
+  ssl.c
+  tls.c
+  tls13.c
+  aes.c
+  arc4.c
+  asn.c
+  blake2b.c
+  blake2s.c
+  camellia.c
+  chacha.c
+  chacha20_poly1305.c
+  cmac.c
+  coding.c
+  curve25519.c
+  curve448.c
+  Compilando...
+  cpuid.c
+  des3.c
+  dh.c
+  dsa.c
+  ecc.c
+  ed25519.c
+  ed448.c
+  error.c
+  fe_448.c
+  fe_low_mem.c
+  fe_operations.c
+  ge_448.c
+  ge_low_mem.c
+  ge_operations.c
+  hash.c
+  hmac.c
+  integer.c
+  kdf.c
+  logging.c
+  md2.c
+  Compilando...
+  md4.c
+  md5.c
+  memory.c
+  pkcs7.c
+  pkcs12.c
+  poly1305.c
+  pwdbased.c
+  random.c
+  rc2.c
+  ripemd.c
+  rsa.c
+  sha.c
+  sha256.c
+  sha3.c
+  sha512.c
+  signature.c
+  sp_c32.c
+  sp_c64.c
+  sp_int.c
+  sp_x86_64.c
+  Compilando...
+  srp.c
+  tfm.c
+  wc_encrypt.c
+  wc_pkcs11.c
+  wc_port.c
+  wolfmath.c
+  wolfevent.c
+  wolfssl.vcxproj -> C:\Users\iofoc\Downloads\wolfssl-5.2.0\wolfssl-5.2.0\x64\Release\wolfssl.lib
